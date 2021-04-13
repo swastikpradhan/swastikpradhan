@@ -1,4 +1,4 @@
-## A Active Game Developer 
+## A Active Full-stack Web Developer 
 - 👋 Hi, I’m Swastik pradhan
 ## An Active Full-Stack Web Developer :eye_speech_bubble:
 - 👋 I'm a Full-stack web developer with core knowledge in javascript, react, python and html and css  :technologist:
