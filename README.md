@@ -1,17 +1,27 @@
 ## A Active Game Developer 
 - 👋 Hi, I’m Swastik pradhan
-## An Active Game Developer :eye_speech_bubble:
-- 👋 Hi, I’m  :technologist:
-- 👀 I’m interested in Game Developement and UI & UX Designing.
+## An Active Full-Stack Web Developer :eye_speech_bubble:
+- 👋 I'm a Full-stack web developer with core knowledge in javascript, react, python and html and css  :technologist:
+- 👀 I’m interested in Web Developer and UI & UX Designing.
 - 🌱 I’m currently learning and looking for Internship.
-- 💞️ Hi, I'm a Game Developer and Game Designer.Core knowledge on C# , C++ , C , swift and Unity Game Engine.
-- 📫 How to reach me  Gmail : adityaadityabitu@gmail.com
-                   LinkedIn : www.linkedin.com/in/aditya-mishra-game-developer
+- 📫 How to reach me  Gmail : swastikpradhan267@gmail.com
+                   LinkedIn : www.linkedin.com/in/swastik-pradhan267
 ### Programming:
-- [x] C#
-- [x] C++
-- [x] .Net
-### Game Engine:
-- [ ] Unreal
-- [ ] Unity
-                 
+- [x] javascript
+- [x] Python
+- [x] C/ C++
+- [x] React
+- [x] Angular
+### Markup of language:
+- [x] Html5
+- [x] Css3
+ ### Framework:
+- [x] Angular
+- [x] React
+- [x] Bootstrap
+ ### Web tools:
+- [x] Figma
+- [x] Bootstrap studio
+### Application programming interface:
+- [x] wordpress
+- [x] wix
