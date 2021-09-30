@@ -9,7 +9,7 @@
 ### Programming:
 - [x] javascript
 - [x] Python
-- [x] C/ C++
+- [x] C
 - [x] React
 - [x] Angular
 ### Markup of language:
