@@ -9,16 +9,14 @@
 ### Programming:
 - [x] javascript
 - [x] Python
-- [x] C
-- [x] React
-- [x] Angular
 ### Markup of language:
 - [x] Html5
 - [x] Css3
  ### Framework:
-- [x] Angular
 - [x] React
-- [x] Bootstrap
+- [x] Node
+- [x] Express
+- [x] MongoDB
  ### Web tools:
 - [x] Figma
 - [x] Bootstrap studio
